@@ -1,0 +1,46 @@
+h1{
+  font-size:30px;
+}
+h2{
+  font-size:30px;
+}
+body{
+  text-align:center;
+  background:linear-gradient(#50C765 30%,#5065C7 70%);
+  background-repeat:no-repeat;
+    
+}
+img{
+    border: 2px;
+    border-style: solid;
+    margin-top: 50px;
+    margin-right: 450px;
+    
+}
+p{
+  font-size:20px;
+  font-weight:bold;
+}
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+    list-style: none;
+
+    
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+inspiration{
+    text-align: center;
+}
+contact{
+    color: crimson;
+}
